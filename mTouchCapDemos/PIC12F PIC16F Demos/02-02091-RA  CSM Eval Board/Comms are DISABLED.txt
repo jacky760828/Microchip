@@ -1,1 +1,0 @@
-This board's hardware does not have the TX pin connected to the PKSA header.
